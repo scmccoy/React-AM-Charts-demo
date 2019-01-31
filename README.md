@@ -21,3 +21,5 @@ Pie: [http://localhost:3000/chartpie](http://localhost:3000/chartpie)
 Map of Oregon: [http://localhost:3000/chartmap](http://localhost:3000/chartmap)
 
 Radar: [http://localhost:3000/chartradar](http://localhost:3000/chartradar)
+
+Sliced: [http://localhost:3000/chartsliced](http://localhost:3000/chartsliced)

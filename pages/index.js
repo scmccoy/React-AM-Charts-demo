@@ -24,7 +24,11 @@ const Layout = styled.div`
 
 const Home = () => (
   <div>
-    <h1> Choose a chart </h1>
+    <h1>
+      {" "}
+      Demo | <a href="https://www.amcharts.com/">amCharts.com</a>{" "}
+    </h1>
+    <h2>by Shane McCoy</h2>
     <Layout>
       <Link href="chartxy">
         <ChartBtn>XY</ChartBtn>
@@ -37,6 +41,9 @@ const Home = () => (
       </Link>
       <Link href="chartradar">
         <ChartBtn>Radar</ChartBtn>
+      </Link>
+      <Link href="chartsliced">
+        <ChartBtn>Sliced</ChartBtn>
       </Link>
     </Layout>
   </div>

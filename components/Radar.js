@@ -59,7 +59,11 @@ class Radar extends Component {
     series.dataFields.categoryX = "country";
   }
 
-  componentWillUnmount() {}
+  componentWillUnmount() {
+    if (this.chart) {
+      this.chart.dispose();
+    }
+  }
 
   render() {
     return (
