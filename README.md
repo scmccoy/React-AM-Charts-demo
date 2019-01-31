@@ -15,5 +15,9 @@ You will also see any errors in the console.
 ### Chart Examples
 
 XY: [http://localhost:3000/chartxy](http://localhost:3000/chartxy)
+
 Pie: [http://localhost:3000/chartpie](http://localhost:3000/chartpie)
+
 Map of Oregon: [http://localhost:3000/chartmap](http://localhost:3000/chartmap)
+
+Radar: [http://localhost:3000/chartradar](http://localhost:3000/chartradar)

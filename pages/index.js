@@ -7,8 +7,13 @@ const ChartBtn = styled.button`
   border-radius: 10px;
   font-size: 2rem;
   font-weight: bold;
-  background: pink;
+  background: whitesmoke;
   text-decoration: none;
+  box-shadow: -1px 5px 26px -5px rgba(0, 0, 0, 0.75);
+  transition: all 0.2s ease-in-out;
+  :hover {
+    transform: scale(1.1);
+  }
 `;
 
 const Layout = styled.div`
@@ -29,6 +34,9 @@ const Home = () => (
       </Link>
       <Link href="chartmap">
         <ChartBtn>Map</ChartBtn>
+      </Link>
+      <Link href="chartradar">
+        <ChartBtn>Radar</ChartBtn>
       </Link>
     </Layout>
   </div>
