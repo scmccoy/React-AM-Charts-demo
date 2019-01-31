@@ -1,0 +1,166 @@
+{
+  "canvg": [
+    {
+      "id": "./node_modules/canvg/dist/browser/canvg.min.js",
+      "name": "./node_modules/canvg/dist/browser/canvg.min.js",
+      "file": "static/chunks/canvg.js",
+      "publicPath": "static/chunks/canvg.js"
+    }
+  ],
+  "rgbcolor": [
+    {
+      "id": "./node_modules/rgbcolor/index.js",
+      "name": "./node_modules/rgbcolor/index.js",
+      "file": "static/chunks/canvg.js",
+      "publicPath": "static/chunks/canvg.js"
+    }
+  ],
+  "stackblur-canvas": [
+    {
+      "id": "./node_modules/stackblur-canvas/src/stackblur.js",
+      "name": "./node_modules/stackblur-canvas/src/stackblur.js",
+      "file": "static/chunks/canvg.js",
+      "publicPath": "static/chunks/canvg.js"
+    }
+  ],
+  "../../pdfmake/vfs_fonts": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/pdfmake/vfs_fonts.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/pdfmake/vfs_fonts.js",
+      "file": "static/chunks/pdfmake.js",
+      "publicPath": "static/chunks/pdfmake.js"
+    }
+  ],
+  "pdfmake/build/pdfmake.js": [
+    {
+      "id": "./node_modules/pdfmake/build/pdfmake.js",
+      "name": "./node_modules/pdfmake/build/pdfmake.js",
+      "file": "static/chunks/pdfmake.js",
+      "publicPath": "static/chunks/pdfmake.js"
+    }
+  ],
+  "setimmediate": [
+    {
+      "id": "./node_modules/setimmediate/setImmediate.js",
+      "name": "./node_modules/setimmediate/setImmediate.js",
+      "file": "static/chunks/pdfmake.js",
+      "publicPath": "static/chunks/pdfmake.js"
+    }
+  ],
+  "./../../timers-browserify/main.js": [
+    {
+      "id": "./node_modules/timers-browserify/main.js",
+      "name": "./node_modules/timers-browserify/main.js",
+      "file": "static/chunks/pdfmake.js",
+      "publicPath": "static/chunks/pdfmake.js"
+    }
+  ],
+  "../../charts/map/SmallMap": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/map/SmallMap.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/map/SmallMap.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "../../charts/map/ZoomControl": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/map/ZoomControl.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/map/ZoomControl.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "./ResponsiveDefaults": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/core/responsive/ResponsiveDefaults.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/core/responsive/ResponsiveDefaults.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "base64-js": [
+    {
+      "id": "./node_modules/base64-js/index.js",
+      "name": "./node_modules/base64-js/index.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "./../buffer/index.js": [
+    {
+      "id": "./node_modules/buffer/index.js",
+      "name": "./node_modules/buffer/index.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "ieee754": [
+    {
+      "id": "./node_modules/ieee754/index.js",
+      "name": "./node_modules/ieee754/index.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": "./node_modules/isarray/index.js",
+      "name": "./node_modules/isarray/index.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "./dist/cpexcel.js": [
+    {
+      "id": "./node_modules/xlsx/dist/cpexcel.js",
+      "name": "./node_modules/xlsx/dist/cpexcel.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "xlsx": [
+    {
+      "id": "./node_modules/xlsx/xlsx.js",
+      "name": "./node_modules/xlsx/xlsx.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ],
+  "./jszip.js": [
+    {
+      "id": "./node_modules/xlsx/jszip.js",
+      "name": "./node_modules/xlsx/jszip.js",
+      "file": "static/chunks/xlsx.js",
+      "publicPath": "static/chunks/xlsx.js"
+    }
+  ]
+}
