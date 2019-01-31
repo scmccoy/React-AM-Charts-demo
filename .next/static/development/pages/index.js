@@ -13146,7 +13146,20 @@ var Home = function Home() {
       lineNumber: 28
     },
     __self: this
-  }, "Pie"))));
+  }, "Pie")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "chartmap",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(ChartBtn, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, "Map"))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);

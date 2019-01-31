@@ -55,6 +55,38 @@
       "publicPath": "static/chunks/pdfmake.js"
     }
   ],
+  "./.internal/charts/axes/AxisFillCircular": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisFillCircular.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisFillCircular.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "./.internal/charts/axes/AxisLabelCircular": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisLabelCircular.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisLabelCircular.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "./.internal/charts/axes/AxisRendererCircular": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisRendererCircular.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/AxisRendererCircular.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
+  "./.internal/charts/axes/GridCircular": [
+    {
+      "id": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/GridCircular.js",
+      "name": "./node_modules/@amcharts/amcharts4/.internal/charts/axes/GridCircular.js",
+      "file": "static/chunks/responsivedefaults.js",
+      "publicPath": "static/chunks/responsivedefaults.js"
+    }
+  ],
   "../../charts/map/SmallMap": [
     {
       "id": "./node_modules/@amcharts/amcharts4/.internal/charts/map/SmallMap.js",
