@@ -24,6 +24,9 @@ const Home = () => (
       <Link href="chartxy">
         <ChartBtn>XY</ChartBtn>
       </Link>
+      <Link href="chartpie">
+        <ChartBtn>Pie</ChartBtn>
+      </Link>
     </Layout>
   </div>
 );
